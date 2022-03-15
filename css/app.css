@@ -39,3 +39,8 @@
 .translucent-form-overlay input::placeholder {
   color: #8a8a8a;
 }
+
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
