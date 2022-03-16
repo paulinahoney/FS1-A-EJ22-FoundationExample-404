@@ -5,6 +5,7 @@
  * https://get.foundation
  * Licensed under MIT Open Source
  */
+
 @media print, screen and (min-width: 40em) {
   .reveal, .reveal.tiny, .reveal.small, .reveal.large {
     right: auto;
@@ -3413,7 +3414,8 @@ select {
     color: #0a0a0a; }
   .callout.alert {
     background-color: #f7e4e1;
-    color: #0a0a0a; }
+    color: #0a0a0a;
+    margin: 15rem 15px 15rem 15px;}
   .callout.small {
     padding-top: 0.5rem;
     padding-right: 0.5rem;
@@ -5281,6 +5283,14 @@ table.hover:not(.unstriped) tr:nth-of-type(even):hover {
   -webkit-box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
           box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
   line-height: 0; }
+
+.thumbnail.chico{
+    width: 15rem;
+    height: 15rem;
+    align-items: center;
+    margin-left: 15px;
+
+  }
 
 a.thumbnail {
   -webkit-transition: -webkit-box-shadow 200ms ease-out;
