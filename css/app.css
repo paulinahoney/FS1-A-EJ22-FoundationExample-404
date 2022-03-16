@@ -11,9 +11,9 @@
 .translucent-form-overlay {
   max-width: 500px;
   width: 100%;
-  background-color: rgba(54, 54, 54, 0.8);
+  background-color: #A8B2FF;
   padding: 20px;
-  color: #fefefe;
+  color: #A8FFF0;
 }
 
 .translucent-form-overlay .columns.row {
@@ -21,23 +21,23 @@
 }
 
 .translucent-form-overlay h3, .translucent-form-overlay label {
-  color: #fefefe;
+  color: #A8FFF0;
 }
 
 .translucent-form-overlay input, .translucent-form-overlay select {
-  color: #8a8a8a;
+  color: #B6E4FF;
 }
 
 .translucent-form-overlay input::-webkit-input-placeholder {
-  color: #8a8a8a;
+  color: #B6E4FF;
 }
 
 .translucent-form-overlay input:-ms-input-placeholder {
-  color: #8a8a8a;
+  color: #B6E4FF;
 }
 
 .translucent-form-overlay input::placeholder {
-  color: #8a8a8a;
+  color: #B6E4FF;
 }
 
 p {
